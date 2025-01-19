@@ -77,10 +77,11 @@ Have ideas to improve this tool? Contributions are welcome! Create a pull reques
 
 ---
 
-## 📞 Support
+## ⭐ Show Your Support
+Want to reduce errors in Audit? Leave a star here 🌟 and help others discover this project too!
 For any issues or queries, feel free to reach out:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub Issues: [Open an Issue](https://github.com/yourusername/GSTIN-Automation/issues)
+- Email: [your-email@example.com](mailto:rsjh6164@gmail.com)
+- GitHub Issues: [Open an Issue](https://github.com/Jaswanth1331/GSTIN-Automation/issues)
 
 ---
 
